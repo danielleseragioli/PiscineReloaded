@@ -14,11 +14,16 @@ This project helped me consolidate my knowledge in:
 * Problem solving through practice and repetition
 
 > “It’s good to be back.”
+> <div align="left">
+ ![Funny GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjllbTk1cGF5cGdqZ2VhNTdnejdiODltamt3eHphNDIxeG03cGt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DIF9HAz65YE8/giphy.gif
+)
+</div>
 
 ✅ **Project completed successfully** as part of my 42 journey. <br>
 📅 Version: Piscine Reloaded v2.0 <br>
 💻 Language: C
 
+---
 #### 📁 Project Overview
 | Category                | Description                                          | Examples                                                      |
 | ----------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
@@ -32,6 +37,8 @@ This project helped me consolidate my knowledge in:
 | 📂 File Handling        | Reading and displaying files                         | `ft_display_file`                                             |
 
 ---
+
+
 
 
   <br>
