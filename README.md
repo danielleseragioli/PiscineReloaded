@@ -1,5 +1,6 @@
-# Piscine Reloaded
- <img align="right" height="500" width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab8a8aaf2-1c06-4911-b094-d1fd98147d07%3Apin_piscine_reloaded.png?table=block&id=292113de-b78e-804e-9960-ddafb7423d98&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1360&userId=&cache=v2">
+<img align="center" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Aada6329d-1210-4717-b5b2-5099170c68a1%3Apisc_relo.png?table=block&id=2c8113de-b78e-8000-a884-fc1114b5b5c8&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1360&userId=&cache=v2">
+ 
+<img align="right" height="500" width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab8a8aaf2-1c06-4911-b094-d1fd98147d07%3Apin_piscine_reloaded.png?table=block&id=292113de-b78e-804e-9960-ddafb7423d98&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1360&userId=&cache=v2">
  
 
 **Piscine Reloaded** is a project from the **42 School** designed to review and strengthen the fundamental concepts of the **C programming language**.
@@ -19,12 +20,15 @@ This project helped me consolidate my knowledge in:
 )
 </div>
 
+---
+
 ✅ **Project completed successfully** as part of my 42 journey. <br>
 📅 Version: Piscine Reloaded v2.0 <br>
 💻 Language: C
 
 ---
-#### 📁 Project Overview
+
+## Project Overview
 | Category                | Description                                          | Examples                                                      |
 | ----------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
 | 🐚 Shell Basics         | File permissions, file search, and script automation | `clean`, `find_sh.sh`, `MAC.sh`                               |
